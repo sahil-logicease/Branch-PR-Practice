@@ -4,8 +4,3 @@
 ## feature 4
 ## Feacture 3
 ## Feacture 5
-<<<<<<< HEAD
-## Feacture 7
-=======
-## Feacture 8
->>>>>>> sk.dev.feature8
